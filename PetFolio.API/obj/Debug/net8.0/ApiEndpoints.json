@@ -1,0 +1,55 @@
+[
+  {
+    "ContainingType": "PetFolio.API.Controllers.PetController",
+    "Method": "Register",
+    "RelativePath": "api/Pet",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "PetFolio.Comunication.Requests.RequestPetJson",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PetFolio.Comunication.Responses.ResponseRegisterPetJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 201
+      }
+    ]
+  },
+  {
+    "ContainingType": "PetFolio.API.Controllers.PetController",
+    "Method": "Update",
+    "RelativePath": "api/Pet/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "PetFolio.Comunication.Requests.RequestPetJson",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 204
+      }
+    ]
+  }
+]

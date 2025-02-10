@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\compu\\source\\repos\\PetFolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A13809-2093-42A9-8209-D28E1184DC47}|Petfolio.Application\\Petfolio.Application.csproj|c:\\users\\compu\\source\\repos\\petfolio\\petfolio.application\\usecases\\pets\\update\\updatepetusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A13809-2093-42A9-8209-D28E1184DC47}|Petfolio.Application\\Petfolio.Application.csproj|solutionrelative:petfolio.application\\usecases\\pets\\update\\updatepetusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF23095-BADE-476A-8EE6-8AE76B63422C}|PetFolio.API\\PetFolio.API.csproj|c:\\users\\compu\\source\\repos\\petfolio\\petfolio.api\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF23095-BADE-476A-8EE6-8AE76B63422C}|PetFolio.API\\PetFolio.API.csproj|solutionrelative:petfolio.api\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE180F0D-1583-413A-B86A-224725132AF5}|PetFolio\\PetFolio.Comunication.csproj|c:\\users\\compu\\source\\repos\\petfolio\\petfolio\\requests\\requestpetjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE180F0D-1583-413A-B86A-224725132AF5}|PetFolio\\PetFolio.Comunication.csproj|solutionrelative:petfolio\\requests\\requestpetjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdatePetUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\compu\\source\\repos\\PetFolio\\Petfolio.Application\\UseCases\\Pets\\Update\\UpdatePetUseCase.cs",
+              "RelativeDocumentMoniker": "Petfolio.Application\\UseCases\\Pets\\Update\\UpdatePetUseCase.cs",
+              "ToolTip": "C:\\Users\\compu\\source\\repos\\PetFolio\\Petfolio.Application\\UseCases\\Pets\\Update\\UpdatePetUseCase.cs",
+              "RelativeToolTip": "Petfolio.Application\\UseCases\\Pets\\Update\\UpdatePetUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:01:24.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestPetJson.cs",
+              "DocumentMoniker": "C:\\Users\\compu\\source\\repos\\PetFolio\\PetFolio\\Requests\\RequestPetJson.cs",
+              "RelativeDocumentMoniker": "PetFolio\\Requests\\RequestPetJson.cs",
+              "ToolTip": "C:\\Users\\compu\\source\\repos\\PetFolio\\PetFolio\\Requests\\RequestPetJson.cs",
+              "RelativeToolTip": "PetFolio\\Requests\\RequestPetJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T13:55:40.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PetController.cs",
+              "DocumentMoniker": "C:\\Users\\compu\\source\\repos\\PetFolio\\PetFolio.API\\Controllers\\PetController.cs",
+              "RelativeDocumentMoniker": "PetFolio.API\\Controllers\\PetController.cs",
+              "ToolTip": "C:\\Users\\compu\\source\\repos\\PetFolio\\PetFolio.API\\Controllers\\PetController.cs",
+              "RelativeToolTip": "PetFolio.API\\Controllers\\PetController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T13:50:24.871Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\compu\source\repos\PetFolio\PetFolio\bin\Debug\net8.0\PetFolio.Comunication.deps.json
+C:\Users\compu\source\repos\PetFolio\PetFolio\bin\Debug\net8.0\PetFolio.Comunication.dll
+C:\Users\compu\source\repos\PetFolio\PetFolio\bin\Debug\net8.0\PetFolio.Comunication.pdb
+C:\Users\compu\source\repos\PetFolio\PetFolio\obj\Debug\net8.0\PetFolio.Comunication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compu\source\repos\PetFolio\PetFolio\obj\Debug\net8.0\PetFolio.Comunication.AssemblyInfoInputs.cache
+C:\Users\compu\source\repos\PetFolio\PetFolio\obj\Debug\net8.0\PetFolio.Comunication.AssemblyInfo.cs
+C:\Users\compu\source\repos\PetFolio\PetFolio\obj\Debug\net8.0\PetFolio.Comunication.csproj.CoreCompileInputs.cache
+C:\Users\compu\source\repos\PetFolio\PetFolio\obj\Debug\net8.0\PetFolio.Comunication.dll
+C:\Users\compu\source\repos\PetFolio\PetFolio\obj\Debug\net8.0\refint\PetFolio.Comunication.dll
+C:\Users\compu\source\repos\PetFolio\PetFolio\obj\Debug\net8.0\PetFolio.Comunication.pdb
+C:\Users\compu\source\repos\PetFolio\PetFolio\obj\Debug\net8.0\ref\PetFolio.Comunication.dll
