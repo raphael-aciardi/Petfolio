@@ -9,3 +9,4 @@ C:\Users\compu\source\repos\PetFolio\PetFolio\obj\Debug\net8.0\PetFolio.Comunica
 C:\Users\compu\source\repos\PetFolio\PetFolio\obj\Debug\net8.0\refint\PetFolio.Comunication.dll
 C:\Users\compu\source\repos\PetFolio\PetFolio\obj\Debug\net8.0\PetFolio.Comunication.pdb
 C:\Users\compu\source\repos\PetFolio\PetFolio\obj\Debug\net8.0\ref\PetFolio.Comunication.dll
+C:\Users\compu\source\repos\PetFolio\PetFolio\obj\Debug\net8.0\PetFolio.Comunication.sourcelink.json
